@@ -1,3 +1,5 @@
+Jupyter Notebook + PDF report of findings
+
 ---
 
 ## Author
