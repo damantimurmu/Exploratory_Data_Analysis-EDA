@@ -11,6 +11,7 @@ This repository contains a complete Exploratory Data Analysis (EDA) of a synthet
 - `jupyter/`: Jupyter Notebook performing EDA using Pandas, Matplotlib, and Seaborn.
 - `raw_data/`: Contains the dataset.
 - `README.md`: Brief Exploratory Data Analysis of Tuberculosis X-Ray Dataset.
+- `summary.md`: Summary of Findinga
 
 ## Tech Stack
 
