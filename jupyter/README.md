@@ -74,4 +74,5 @@
 ![output_22_0](https://github.com/user-attachments/assets/f11a22b8-6f1e-418a-930c-2c3751c4e01a)
 
 - Box plots for numerical features by TB class
+
 ![output_23_1](https://github.com/user-attachments/assets/b12da72f-bcad-4f50-a8fc-7c735d207edd)
